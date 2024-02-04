@@ -1,4 +1,10 @@
-## Hi there, I'm Ashitosh Bendre 👋
+<h1 align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Ashitosh, Welcome to My GitHub!+%F0%9F%8E%86" alt="Typing SVG" />
+</h1>
+
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 - 🎮 Gamer and Developer passionate about creating casual and fun games.
 - 🌐 Currently exploring topics like Procedural Generation and UE5 Meta-Humans.
