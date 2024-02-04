@@ -3,7 +3,7 @@
 </h1>
 
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AshitoshBendre&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 - 🎮 Gamer and Developer passionate about creating casual and fun games.
@@ -31,5 +31,5 @@ I believe that a well-designed game has the power to captivate and inspire peopl
 
 ### 📬 Let's Connect
 
-Feel free to reach out and connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-khule-237682250/). I'm always open to engaging in discussions about game development, technology, and more!
+Feel free to reach out and connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-khule-237682250/) . I'm always open to engaging in discussions about game development, technology, and more!
 
