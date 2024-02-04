@@ -33,3 +33,6 @@ I believe that a well-designed game has the power to captivate and inspire peopl
 
 Feel free to reach out and connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-khule-237682250/) . I'm always open to engaging in discussions about game development, technology, and more!
 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
+
+
