@@ -6,13 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=AshitoshBendre&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<a href="https://contra.com/profile/ashitosh_bendre_73fkcscu" target="_blank">
-  <button>Hire Me on Contra</button>
-</a>
-
-
-
-
 - 🎮 Gamer and Developer passionate about creating casual and fun games.
 - 🌐 Currently exploring topics like Procedural Generation and UE5 Meta-Humans.
 - 🚀 Actively learning Unity and seeking internship opportunities to further enhance my coding skills.
