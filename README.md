@@ -6,8 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=AshitoshBendre&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<div class="contra-hire-me-button" data-analyticsUserId="588b948e-af31-4d79-ba7d-43cd6d1403f0" data-theme="dark" data-username="ashitosh_bendre_73fkcscu"></div>
-<script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+<a href="https://contra.com/profile/ashitosh_bendre_73fkcscu" target="_blank">
+  <img src="https://example.com/contra-button.png" alt="Contra Hire Me">
+</a>
+
 
 
 - 🎮 Gamer and Developer passionate about creating casual and fun games.
