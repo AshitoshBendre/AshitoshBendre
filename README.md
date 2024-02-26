@@ -7,8 +7,9 @@
 </div>
 
 <a href="https://contra.com/profile/ashitosh_bendre_73fkcscu" target="_blank">
-  <img src="https://example.com/contra-button.png" alt="Contra Hire Me">
+  <button>Hire Me on Contra</button>
 </a>
+
 
 
 
